@@ -1,0 +1,64 @@
+252:                colors = listOf(Color(0xFF2E221D), Color(0xFF140F0C)) // Premium dark coffee gradient
+1105:                        // Floating Gold Badge
+1239:               // Welcome & Elegant Text Header
+1281:       // Modern Empty State Fallback or Staggered Product Grid
+1409:      fontFamily = FontFamily.Cursive, // Fallback for slightly handwritten look
+1512:      // Smooth modern transitions
+1580:    // Coil AsyncImage for memory-safe background-loading and image recycling
+1588:    // Immersive Rich Cinematic Overlay (Dark Radial to Vertical Coffee/Gold Gradient)
+1597:              Color(0xFF1E130C).copy(alpha = 0.95f) // Deep warm espresso bottom fade
+1606:      // Luxury crafted bottom typography
+1615:             withStyle(style = androidx.compose.ui.text.SpanStyle(color = Color(0xFFD4AF37))) { // Premium Gold Accent
+1639:                colors = listOf(Color(0xFFD4AF37), Color(0xFFA66A35)) // Beautiful golden-caramel gradient pill button
+2092:        // Soft elevated shadow structure
+2111:        // Product Image - Rendered with Coil AsyncImage safely on separate thread with downsampling
+2119:        // Subtle gradient vignette overlay at the bottom of image
+2130:        // Veg / Non-Veg Standard Premium Badge
+2147:        // Translucent Floating Favorite Button in corner
+2211:        // Elegant Dynamic Add to Cart (+) Button
+2242:    // Nav Bar Background
+2262:        Spacer(modifier = Modifier.width(60.dp)) // Space for center FAB
+2271:    // Center FAB
+2279:        .background(Color(0xFF2C1E16)) // DarkCoffeeBrown
+2280:        .clickable { onNavigate("special") }, // Special Action
+2346:  val sizeSPrice = (basePrice * 0.76).toInt() // approx 99 for 129
+2347:  val sizeLPrice = (basePrice * 1.23).toInt() // approx 159 for 129
+2720:    // Top Bar
+2763:        // Items
+2820:        } // end items
+2822:        // Add note instruction box
+2852:        // Bill Details
+2938:        } // end Bill Details
+2940:        // Offers Section
+2971:      } // end LazyColumn
+2973:      // Bottom Bar Checkout
+3010:  var paymentState by remember { mutableStateOf("input") } // input, processing, success
+3027:          delay(4500) // Enough time to read the receipt
+3455:    // Header
+3464:    // Search Bar
+3473:    // Grid
+3699:    // Top Bar
+3824:                        .background(Color(0xFFE5A152)), // Orange/Caramel
+4023:            // HERO IMAGE
+4036:                // Bottom Fade overlay to blend image into the dark card
+4042:            // DARK INFO CARD
+4046:                    .offset(y = (-1).dp) // seamless transition
+4067:                    val pillBg = Color(0xFF3C2C21) // slightly lighter than dark brown
+4088:            // CREAM SECTION - CUSTOMIZATIONS
+4150:                                            Text(" ", fontSize = 12.sp) // keep alignment
+4185:                                            Text(" ", fontSize = 12.sp) // space
+4200:                // PRODUCT HIGHLIGHTS
+4250:                // YOU MAY ALSO LIKE
+4279:            } // end cream section
+4281:            // YOUR SELECTION (DARK STICKY-LIKE BOTTOM CARD)
+4320:                // Gold Points Pill
+4339:                // Quantity and Total Price
+4360:                // Add to cart button
+4389:                Spacer(modifier = Modifier.height(40.dp)) // bottom generous padding
+4391:        } // end main scroll column
+4393:        // TOP BAR (Absolute)
+4441:            // Elegant Back Bar
+4486:            // Pinterest style staggered grid with animation
+4552:        // Dark gradient overlay
+4586:        // Custom Back Button
+4624:                // Quantity Selector
