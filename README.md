@@ -306,7 +306,7 @@ We prioritize a flawless, butter-smooth user experience.
 
 **1. Clone the Repo**
 ```bash
-git clone https://github.com/your-username/aurum-cafe.git
+git clone https://github.com/Ashitosh2004/aurum-cafe.git
 ```
 
 **2. Gradle Sync**
