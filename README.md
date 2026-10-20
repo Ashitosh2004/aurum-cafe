@@ -7,9 +7,10 @@
 # ⚜️ AURUM CAFÉ ⚜️
 ### *The Gold Standard of Digital Coffee Craftsmanship*
 <br/>
+
 **[⬇️ Download the APK](https://aurumcafee.netlify.app/) &nbsp;·&nbsp; [🌐 About RaktMitra](https://aurumcafee.netlify.app/)**
 
-<br/>
+<br>
 
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.2-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
