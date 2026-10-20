@@ -8,7 +8,7 @@
 ### *The Gold Standard of Digital Coffee Craftsmanship*
 <br/>
 
-**[⬇️ Download the APK](https://aurumcafee.netlify.app/) &nbsp;·&nbsp; [🌐 About RaktMitra](https://aurumcafee.netlify.app/)**
+**[⬇️ Download the APK](https://aurumcafee.netlify.app/) &nbsp;·&nbsp; [🌐 About AurumCafe](https://aurumcafee.netlify.app/)**
 
 <br>
 
